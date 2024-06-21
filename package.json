@@ -11,14 +11,16 @@
     "start": "vite"
   },
   "dependencies": {
-    "@emotion/react": "^11.11.4",
-    "@emotion/styled": "^11.11.5",
-    "axios": "^1.7.2",
-    "react": "^18.3.1",
-    "react-dom": "^18.3.1",
-    "react-player": "^2.16.0",
-    "react-router-dom": "^6.23.1",
-    "react-scripts": "^3.0.1"
+    "@emotion/react": "^11.10.0",
+    "@emotion/styled": "^11.10.0",
+    "@mui/icons-material": "^5.8.4",
+    "@mui/material": "^5.9.3",
+    "axios": "^0.27.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-player": "^2.10.1",
+    "react-router-dom": "^6.3.0",
+    "react-scripts": "^5.0.1"
   },
   "devDependencies": {
     "@babel/plugin-transform-class-properties": "^7.21.0",

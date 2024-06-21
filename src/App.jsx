@@ -1,6 +1,5 @@
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import "./index.css";
-import { Box } from "@mui/material";
 
 import {
   Navbar,
@@ -9,6 +8,7 @@ import {
   ChannelDetail,
   SearchFeed,
 } from "./components";
+import { Box } from "@mui/material";
 
 function App() {
   return (
