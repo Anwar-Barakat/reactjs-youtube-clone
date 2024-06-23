@@ -1,8 +1,5 @@
-# React + Vite
+# Build and Deploy a Modern YouTube Clone Application in React JS with Material UI 5
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![YouTube](https://i.ibb.co/4R5RkmW/Thumbnail-5.png)
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### [🌟 Rapid API For Youtube Clone APIs](https://rapidapi.com/ytdlfree/api/youtube-v31?utm_source=youtube.com%2FJavaScriptMastery&utm_medium=referral&utm_campaign=DevRel)
