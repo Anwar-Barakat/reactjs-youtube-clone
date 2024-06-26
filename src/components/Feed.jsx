@@ -35,7 +35,7 @@ const Feed = () => {
           Copyright 2024 JSM Media
         </Typography>
       </Box>
-      <Box p={2} sx={{ overflowY: "auto", height: "90vh", flex: 2 }}>
+      <Box p={2} sx={{ overflowY: "auto", height: "90vh", flex: 1 }}>
         <Typography
           variant={"h4"}
           fontWeight="bold"
@@ -45,7 +45,7 @@ const Feed = () => {
           {selectedCategory}
           <span style={{ color: "#f31503" }}> Videos</span>
         </Typography>
-        <Videos videos={videos} />
+        <Videos videos={videos} sx={{ display: "grid", gridTemplateColumns: "repeat(auto-fit, minmax(300px, 1fr))", gap: 2 }} />
       </Box>
     </Stack>
   );
